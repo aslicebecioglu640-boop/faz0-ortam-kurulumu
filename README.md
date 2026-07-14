@@ -7,3 +7,5 @@ Görev 2 - Hatanın nedeni neydi?
 (Parantez işaretini kapatmadığım için syntax hatası yaptım.)
 Görev 3 - Test sonucu
 (İlk sorumda bana direkt kodu verdi ikincisinde ise yöntemini anlattı konuyu daha güzel kavramış oldum.Bence ikincisi daha yararlı.)
+Görev 4 - Claude'nin sorularıma cevabı
+(Söylediğim yanlış şeyi düzeltti beni direkt onaylamadı.)
