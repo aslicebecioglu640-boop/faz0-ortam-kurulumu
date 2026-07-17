@@ -10,6 +10,6 @@ Görev 3 - Test sonucu
 Görev 4 - Claude'nin sorularıma cevabı
 (Söylediğim yanlış şeyi düzeltti beni direkt onaylamadı.)
 Görev 5 - Girintiler ne işe yarar?
-(bi komutu daha fazla boşluk bırakarak yazılırsa üstteki komuta ite olduğu anlaşılır)
+(Bir komutu daha fazla boşluk bırakarak yazılırsa üstteki komuta ait olduğu anlaşılır.)
 
 
