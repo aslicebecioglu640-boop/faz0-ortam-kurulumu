@@ -10,4 +10,4 @@ Görev 3 - Test sonucu
 Görev 4 - Claude'nin sorularıma cevabı
 (Söylediğim yanlış şeyi düzeltti beni direkt onaylamadı.)
 Görev 5 - Girintiler ne işe yarar?
-(Bir komutu daha fazla boşluk bırakarak yazılırsa üstteki komuta ait olduğu anlaşılır.) aslı
+(Bir komutu daha fazla boşluk bırakarak yazılırsa üstteki komuta ait olduğu anlaşılır.) as
