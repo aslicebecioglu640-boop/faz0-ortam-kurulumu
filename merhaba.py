@@ -1,3 +1,4 @@
 import datetime
-print("Asli Ecem       Faz0'i bitirdim!")
+print("Asli Ecem")
+print("Faz0'ı bitirdim")
 print(datetime.date.today())
