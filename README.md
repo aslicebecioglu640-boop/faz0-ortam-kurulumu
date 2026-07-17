@@ -9,3 +9,5 @@ Görev 3 - Test sonucu
 (İlk sorumda bana direkt kodu verdi ikincisinde ise yöntemini anlattı konuyu daha güzel kavramış oldum.Bence ikincisi daha yararlı.)
 Görev 4 - Claude'nin sorularıma cevabı
 (Söylediğim yanlış şeyi düzeltti beni direkt onaylamadı.)
+Görev 5 - Girintiler ne işe yararr
+(bi komutu daha fazla boşluk bırakarak yazılırsa üstteki komuta ite olduğu anlaşılır)
