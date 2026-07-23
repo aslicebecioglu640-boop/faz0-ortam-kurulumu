@@ -68,7 +68,7 @@ if yas>18 and boy>1.60:
         if sehir=="İstanbul":
             print("İstanbul'da yaşayan yetişkin")
 
-"yetişkin" if yas<18 else "çocuk"
+print("yetişkin" if yas<18 else "çocuk")
 liste=[]
 if liste==[]:
     print("liste boş")
@@ -146,7 +146,7 @@ liste1=[1,2,3]
 liste2=[4,5,6]
 liste3=liste1+liste2
 print(liste3)
-"matrix"in filmler
+print("matrix" in filmler)
 kisi={"isim":"Aslı", "yas":19, "sehir":"İstanbul"}
 print(kisi["isim"])
 print(kisi["sehir"])
@@ -171,6 +171,7 @@ soyisim="Cebecioğlu"
 concatenation=isim+" "+soyisim
 print(concatenation),
 f_string=f"{isim} {soyisim}"
+print(f-string)
 isim.upper()
 print(isim.upper())
 isim.lower()
@@ -212,3 +213,4 @@ finally:
     print("Hata yönetimi tamamlandı.")
 if yas<0:
     raise ValueError("Yaş negatif olamaz!")
+
