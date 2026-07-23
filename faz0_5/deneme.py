@@ -171,7 +171,7 @@ soyisim="Cebecioğlu"
 concatenation=isim+" "+soyisim
 print(concatenation),
 f_string=f"{isim} {soyisim}"
-print(f-string)
+print(f_string)
 isim.upper()
 print(isim.upper())
 isim.lower()
