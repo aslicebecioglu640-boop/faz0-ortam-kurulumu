@@ -110,8 +110,10 @@ fon1()
 def selam_ver(isim):
     print(f"merhaba {isim}")
 selam_ver("Aslı")  
-def topla(a,b): 
+def topla(a,b):
     return a+b
+print(sonuc)
+sonuc=topla(3,5)
 sonuc=topla(3,5)
 print(sonuc)
 def selam_ver(isim="misafir"):
@@ -119,9 +121,11 @@ def selam_ver(isim="misafir"):
 selam_ver()
 def ortal(a, b):
     return topla(a, b) / 2
+print(ortal(4,6))
 def fon3(a,b):
+    """Bu fonksiyon iki sayının iki katlarının toplamını döndürür."""
     return a*2 + b*2
-"""Bu fonksiyon iki sayının iki katlarının toplamını döndürür."""
+
 def fon4(t,e):
   t=2
   e=3       
