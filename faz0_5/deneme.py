@@ -112,8 +112,6 @@ def selam_ver(isim):
 selam_ver("Aslı")  
 def topla(a,b):
     return a+b
-print(sonuc)
-sonuc=topla(3,5)
 sonuc=topla(3,5)
 print(sonuc)
 def selam_ver(isim="misafir"):
