@@ -215,4 +215,10 @@ finally:
     print("Hata yönetimi tamamlandı.")
 if yas<0:
     raise ValueError("Yaş negatif olamaz!")
+#madde 49
+def ornek_fonksiyon():
+    yerel_degisken = "merhaba"
+    print(yerel_degisken)
 
+ornek_fonksiyon()
+print(yerel_degisken)
